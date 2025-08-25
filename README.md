@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevEduLP/DevEduLP/output/snake.svg" alt="Snake animation" />
+
 
 ###
