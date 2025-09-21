@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">👩‍💻Estou em transição de carreira para a área de desenvolvimento web, sempre buscando me atualizar e aprendendo novas tecnologias.<br>💭 Assuntos : Desenvolvimento Web, IA, Python, JS, Automação, entre outros.<br>🎓Cursando Análise e Desenvolvimento de Sistemas na Unochapecó.</p>
+<p align="left">👩‍💻Estou em transição de carreira para a área de desenvolvimento web, sempre buscando me atualizar e aprendendo novas tecnologias.<br>💭 Assuntos : Desenvolvimento Web, IA, Python, JS, entre outros.<br>🎓Cursando Análise e Desenvolvimento de Sistemas na Unochapecó.</p>
 
 ###
 
