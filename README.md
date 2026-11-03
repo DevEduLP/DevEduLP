@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👩‍💻Estou em transição de carreira para a área de desenvolvimento web, sempre buscando me atualizar e aprendendo novas tecnologias.<br>💭 Assuntos : Desenvolvimento Web, IA, Python, JS, entre outros.<br>🎓Cursando Análise e Desenvolvimento de Sistemas na Unochapecó.</p>
+<p align="left">Desenvolvedor e estudante focado em desenvolvimento de sistemas em C, algoritmos de baixa ordem, estruturas de dados e fundamentos da Ciência da Computação. Almejando pesquisa e docência acadêmica na área de computação aplicada e sistemas.<br>Áreas de Foco: Programação em C, Gerenciamento de Memória, Estruturas de Dados Avançadas (Árvores/Grafos), Sistemas Operacionais e Algoritmos.<br>Objetivos: Pesquisa acadêmica, desenvolvimento de projetos de base/sistemas e publicações educacionais sobre fundamentos de programação.
 
 ###
 
