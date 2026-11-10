@@ -25,7 +25,7 @@
 
 ---
 
-### 🎓 Sobre Mim & Foco de Pesquisa
+### Sobre Mim & Foco de Pesquisa
 
 Desenvolvedor e estudante focado em desenvolvimento de sistemas em C, algoritmos de baixa ordem, estruturas de dados e fundamentos da Ciência da Computação. Almejando pesquisa e docência acadêmica na área de computação aplicada e sistemas.
 
