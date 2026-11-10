@@ -1,39 +1,33 @@
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+<h1 align="center">Olá, eu sou o Eduardo.</h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=79&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-livi-pedruzzi-4ab268235/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://www.instagram.com/dudu_livip/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="center">Olá, eu sou o Eduardo.</h1>
+### 🎓 Sobre Mim & Foco de Pesquisa
 
-###
+Desenvolvedor e estudante focado em desenvolvimento de sistemas em C, algoritmos de baixa ordem, estruturas de dados e fundamentos da Ciência da Computação. Almejando pesquisa e docência acadêmica na área de computação aplicada e sistemas.
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<h4 data-importer="text" align="center">🎓 Sobre Mim & Foco de Pesquisa</h4>
-
-###
-
-<p data-importer="text" align="left">Desenvolvedor e estudante focado em desenvolvimento de sistemas em C, algoritmos de baixa ordem, estruturas de dados e fundamentos da Ciência da Computação. Almejando pesquisa e docência acadêmica na área de computação aplicada e sistemas.<br><br>Áreas de Foco: Programação em C, Gerenciamento de Memória, Estruturas de Dados Avançadas (Árvores/Grafos), Sistemas Operacionais e Algoritmos.<br>Objetivos: Pesquisa acadêmica, desenvolvimento de projetos de base/sistemas e publicações educacionais sobre fundamentos de programação.</p>
-
-###
+-  **Áreas de Foco:** Programação em C, Gerenciamento de Memória, Estruturas de Dados Avançadas (Árvores/Grafos), Sistemas Operacionais e Algoritmos.
+-  **Objetivos:** Pesquisa acadêmica, desenvolvimento de projetos de base/sistemas e publicações educacionais sobre fundamentos de programação.
